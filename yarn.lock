@@ -864,10 +864,10 @@
   resolved "https://nodeproxy.webix.io/@dhtmlx%2fgantt-data-provider/-/gantt-data-provider-0.1.0.tgz#267d4eca9a8b79056994c2db5bb47c9b59cdfbdd"
   integrity sha512-bEQp9Hsu9Pii6eQ/m6l0QYQFNZvNrW7xbVclbmkymUkILYotceIBLUZSEQ9QypmIjyqx5yyrT3JTh30v2b1dPQ==
 
-"@dhtmlx/trial-vue-gantt@^0.3.0":
-  version "0.3.0"
-  resolved "https://nodeproxy.webix.io/@dhtmlx%2ftrial-vue-gantt/-/trial-vue-gantt-0.3.0.tgz#7f9cfc91c3b30ba4353b98f67146e19d0c6f9583"
-  integrity sha512-KfAsKYswpR3YRfVLQdaXuqqZXxoArNvsaYar7kLjm1Us9t0L5yQzFVFW9ufTOzatPvrAX6aRpH8519sAtPjgOA==
+"@dhtmlx/trial-vue-gantt@^1.0.1":
+  version "1.0.1"
+  resolved "https://nodeproxy.webix.io/@dhtmlx%2ftrial-vue-gantt/-/trial-vue-gantt-1.0.1.tgz#40d8718cb76c285f775ba8c10b0790de0341de4f"
+  integrity sha512-mtr31Ocumvq5XyJtsKYOsEpyB3QqGZWqQl2rfsxAcJwfE03haDTbFiKyqjwye+sDs+SfElaVWzDvjDBJgB11jg==
 
 "@hapi/address@2.x.x":
   version "2.1.4"
