@@ -13,6 +13,7 @@ import GanttPerformance from "./components/GanttPerformance.vue";
 import GanttMarkers from "./components/GanttMarkers.vue";
 import GanttTooltips from "./components/GanttTooltips.vue";
 import GanttText from "./components/GanttText.vue";
+import GanttLocale from "./components/GanttLocale.vue";
 
 const skins = [
 	{ id: "default", name: "Classic", borders: "full", cellHeight: 38 },
@@ -33,6 +34,7 @@ const demos = [
 	["/markers", "Markers", GanttMarkers],
 	["/tooltips", "Tooltips", GanttTooltips],
 	["/templates", "Custom text", GanttText],
+	["/locale", "Locales", GanttLocale],
 ];
 
 const routes = [{ path: "/", redirect: `${demos[0][0]}/${skins[0].id}` }];

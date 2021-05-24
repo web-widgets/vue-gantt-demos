@@ -859,15 +859,15 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@dhtmlx/gantt-data-provider@^0.1.0":
-  version "0.1.0"
-  resolved "https://nodeproxy.webix.io/@dhtmlx%2fgantt-data-provider/-/gantt-data-provider-0.1.0.tgz#267d4eca9a8b79056994c2db5bb47c9b59cdfbdd"
-  integrity sha512-bEQp9Hsu9Pii6eQ/m6l0QYQFNZvNrW7xbVclbmkymUkILYotceIBLUZSEQ9QypmIjyqx5yyrT3JTh30v2b1dPQ==
+"@dhtmlx/gantt-data-provider@^0.2.0":
+  version "0.2.0"
+  resolved "https://nodeproxy.webix.io/@dhtmlx%2fgantt-data-provider/-/gantt-data-provider-0.2.0.tgz#10c89c1b09387282fded78e79aa4972560d62ce0"
+  integrity sha512-/KQXzx+oSVxb97ymQ7T+P5Yznr8EOUXrFZfenOrQdskZLhmDcR28NuDPv1qnULpepN5ifbyUFb2Roh2Ah6B0sA==
 
-"@dhtmlx/trial-vue-gantt@^1.0.1":
-  version "1.0.1"
-  resolved "https://nodeproxy.webix.io/@dhtmlx%2ftrial-vue-gantt/-/trial-vue-gantt-1.0.1.tgz#40d8718cb76c285f775ba8c10b0790de0341de4f"
-  integrity sha512-mtr31Ocumvq5XyJtsKYOsEpyB3QqGZWqQl2rfsxAcJwfE03haDTbFiKyqjwye+sDs+SfElaVWzDvjDBJgB11jg==
+"@dhtmlx/trial-vue-gantt@1.1.0":
+  version "1.1.0"
+  resolved "https://nodeproxy.webix.io/@dhtmlx%2ftrial-vue-gantt/-/trial-vue-gantt-1.1.0.tgz#18e3d975c6b2c846b8a39b33f8143e0f6ec9dc04"
+  integrity sha512-AE+Nswne+yKl0kVuUbjTeOJ3b08YAttCHV9m2qyTj/vFd83YYo2vTaIFJUJCGWW2zlxC+ktjlnyAO32fqpgn1Q==
 
 "@hapi/address@2.x.x":
   version "2.1.4"
